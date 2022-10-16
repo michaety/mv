@@ -1,4 +1,4 @@
-# Deprecated
+# Deprecated test
 
 This repository is now deprecated, will no longer be updated and is being archived. Please visit the new project/replacement:
 * [https://github.com/RandomNinjaAtk/docker-lidarr-extended](https://github.com/RandomNinjaAtk/docker-lidarr-extended)
